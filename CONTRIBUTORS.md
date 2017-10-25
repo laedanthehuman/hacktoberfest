@@ -1178,6 +1178,11 @@ to explore life. Also, Python and Django Developer
 Noida
 -Github: [Manas kashyap](https://github.com/Manas-kashyap)
 
+#### Name: [Laedan The Human](https://github.com/laedanthehuman)
+- Place: Fortaleza, Ceará Brazil
+- Bio: I Love Web Dev. 
+- GitHub: [Laedan The Human](https://github.com/laedanthehuman)
+
 #### Name: [Daksh Chaturvedi](https://github.com/daksh249)
 - Place: New Delhi, India
 - Bio: ECE Undergraduate at IIIT-Delhi
